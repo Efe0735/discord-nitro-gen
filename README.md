@@ -31,7 +31,7 @@ __-- Coming soon list --__
 
 ```
 > Download zip file and extract.
-> Execute the .bat file.
+> Open the run.bat file first, then open the run2.bat file.
 ```
 
 
